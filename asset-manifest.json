@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/stardewvalleyidle/static/css/main.e6c13ad2.css",
-    "main.js": "/stardewvalleyidle/static/js/main.1ff4bbac.js",
+    "main.js": "/stardewvalleyidle/static/js/main.f2c17924.js",
     "static/js/787.4cf859d3.chunk.js": "/stardewvalleyidle/static/js/787.4cf859d3.chunk.js",
     "static/media/SV_background.jpg": "/stardewvalleyidle/static/media/SV_background.9c9c1acba2faa51abc40.jpg",
     "index.html": "/stardewvalleyidle/index.html",
     "main.e6c13ad2.css.map": "/stardewvalleyidle/static/css/main.e6c13ad2.css.map",
-    "main.1ff4bbac.js.map": "/stardewvalleyidle/static/js/main.1ff4bbac.js.map",
+    "main.f2c17924.js.map": "/stardewvalleyidle/static/js/main.f2c17924.js.map",
     "787.4cf859d3.chunk.js.map": "/stardewvalleyidle/static/js/787.4cf859d3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.1ff4bbac.js"
+    "static/js/main.f2c17924.js"
   ]
 }

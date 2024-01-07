@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/stardewvalleyidle/static/js/main.b0b732aa.js",
+    "index.html": "/stardewvalleyidle/index.html",
+    "main.b0b732aa.js.map": "/stardewvalleyidle/static/js/main.b0b732aa.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.b0b732aa.js"
+  ]
+}
